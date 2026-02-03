@@ -34,5 +34,5 @@ C:\Users\kouhi\anaconda3\python.exe Test_doric.py
 
 ## Notes
 - If `import doric` fails, install the Doric photometry reader from the GitHub source (not the PyPI ML package) or use the included `doric.py`.
-- If raw 405/465 aren�t auto-detected in the RAW file, inspect printed dataset names and set `cand_405`/`cand_465` accordingly.
+- If raw 405/465 aren't auto-detected in the RAW file, inspect printed dataset names and set `cand_405`/`cand_465` accordingly.
 - Sampling rate is inferred from dF/F length and time vector; adjust if your files differ.
